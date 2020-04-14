@@ -1,0 +1,89 @@
+.website{
+	width:100%;
+}
+
+body{
+	margin:20px;
+}
+.titre{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	font-family: "Krona one";
+	background-color: #4F4F4F;
+	border-radius: 100px;
+	color: #2E2D31;
+	font-size: 30px;
+	padding:20px;
+}
+
+.ensfor{
+	margin:auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-family: "Krona one";
+	display: flex;
+	justify-content: center;
+	width: 200px;
+}
+
+.login{
+	width: 300px;
+}
+
+
+
+.bouton{
+	margin:auto;
+	margin-top:20px;
+	font-family: "Krona one";
+	display: flex;
+	justify-content: center;
+}
+
+
+
+body{
+	background-color: #2E2D31 !important;
+	color:white;
+	
+}
+
+
+
+
+
+
+.email{
+	margin:auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-family: "Krona one";
+}
+
+.text-area{
+	margin:auto;
+	width:100%;
+	font-family: "Krona one";
+}
+
+
+
+.name{
+    margin:auto;
+	font-family: "Krona one";
+}
+
+
+
+.logo{
+	margin: 2%;
+}
+
+@media only screen and (min-width:1000px) {
+	.website{
+		width: 50%;
+		margin:auto;
+	}
+}
+	
